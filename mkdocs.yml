@@ -1,6 +1,8 @@
 site_name: Eipunbo - Tự học ngữ pháp Tiếng Anh
 site_description: Một trang tự học ngữ pháp Tiếng Anh miễn phí
 site_author: duykhanh471  
+repo_url: https://github.com/thu-tram/eibunpo
+repo_name: Sửa nội dung sách
 
 nav:
   - 'Trang chủ':
