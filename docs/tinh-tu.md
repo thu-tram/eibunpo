@@ -18,7 +18,7 @@ Tính từ là từ chỉ tính chất, mức độ, phạm vi, ... của một 
 * Đứng sau các động từ tri giác
     - Một số các động từ theo sau bởi tính từ trong tiếng Anh thường gặp là: look, seem, taste, sound, feel, ...
 
-### [Câu so sánh](so-sanh.md)
+### Câu so sánh
 Tất tần tật về tính từ trong câu so sánh Tiếng Anh.
 
 ### Adjective Gradability

@@ -1,0 +1,149 @@
+site_name: Eipunbo - Tự học ngữ pháp Tiếng Anh
+site_description: Một trang tự học ngữ pháp Tiếng Anh miễn phí
+site_author: duykhanh471  
+
+nav:
+  - 'Trang chủ':
+    - 'index.md'
+  - 'Thì hiện tại (Present)':
+    - 'Hiện tại tiếp diễn': 'hien-tai-tiep-dien.md'
+    - 'Hiện tại đơn': 'hien-tai-don.md'
+    - 'Hiện tại đơn và thì hiện tại tiếp diễn': 'htd-va-httd.md'
+  - 'Thì quá khứ (Past)':
+    - 'Quá khứ đơn': 'qua-khu-don.md'
+    - 'Quá khứ tiếp diễn': 'qua-khu-tiep-dien.md'
+    - 'Quá khứ hoàn thành': 'qua-khu-hoan-thanh.md' 
+    - 'Quá khứ hoàn thành tiếp diễn': 'qua-khu-hoan-thanh-tiep-dien.md'
+  - 'Hiện tại hoàn thành (Present perfect)':
+    - 'Hiện tại hoàn thành': 'hien-tai-hoan-thanh.md' 
+    - 'Hiện tại hoàn thành tiếp diễn': 'hien-tai-hoan-thanh-tiep-dien.md'
+  - 'Tương lai (Future)':
+    - 'Các thì hiện tại cho tương lai': 'hien-tai-cho-tuong-lai.md'
+    - 'I’m going to (do)': 'going-to.md'
+    - 'will và shall': 'will-va-shall.md'
+    - 'will và going to': 'will-going-to.md'
+    - 'Tương lai tiếp diễn và tương lai hoàn thành': 'tuong-lai-tiep-dien-va-hoan-thanh.md'
+  - 'Động từ khuyết thiếu (Modals)':
+    - 'can, could và (be) able to': 'can-could-be-able-to.md'
+    - 'could (do) và could have (done)': 'could-do-could-have-done.md'
+    - 'may và might': 'may-might.md'
+    - 'have to và must': 'must-have-to.md'
+    - 'mustn’t và needn’t': 'mustnt-va-neednt.md'
+    - 'should và ought to': 'should-ought-to.md'
+    - 'would': 'would.md'
+    - 'Các yêu cầu, đề nghị, xin phép và mời (can/could/would you ... ? etc.)': 'can-could-would.md'
+  - 'Câu điều kiện và ước muốn (if and wish)':
+    - 'Câu điều kiện': 'cau-dieu-kien.md'
+    - 'Câu wish': 'cau-wish.md'
+  - 'Câu bị động (Passive)':
+    - 'Câu chủ động, câu bị động': 'chu-dong-bi-dong.md'
+    - 'Câu bị động (is done / was done)': 'bi-dong.md'
+    - 'Các dạng câu bị động (be done / been done / being done)': 'cac-dang-cau-bi-dong.md'
+    - 'it is said that': 'it-is-said-that.md'
+    - 'have something done': 'have-something-done.md'
+  - 'Câu tường thuật (Reported speech)':
+    - 'Lời nói trực tiếp và gián tiếp': 'loi-noi-truc-tiep-va-gian-tiep.md' 
+    - 'Câu tường thuật': 'cau-tran-thuat.md'
+  - 'Câu hỏi và trợ động từ (Questions and auxiliary verbs)':
+    - 'Các loại câu hỏi.': 'cau-hoi.md'
+    - 'Câu hỏi gián tiếp (do you know where ... ? / he asked me where ...)': 'cau-hoi-gian-tiep.md'
+    - 'Trợ động từ (have/do/can etc.)': 'tro-dong-tu.md'
+    - 'Câu hỏi đuôi (Question tags)': 'cau-hoi-duoi.md'
+  - 'Dạng -ing và to...':
+    - 'Động từ + -ing (enjoy doing / stop doing etc.)': 'dong-tu-ing.md'
+    - 'Động từ + to... (decide to ... / forget to ... etc.)': 'dong-tu-to.md'
+    - 'Động từ (+ tân ngữ) + to... (I want you to ...)': 'dong-tu-subject-tp.md'
+    - 'prefer và would rather': 'prefer-would-rather.md'
+    - 'Giới từ + -ing': 'gioi-tu-ing.md'
+    - 'be/get used to ...': 'used-to.md'
+    - 'to..., for... và so that...': 'to-for-so-that.md'
+    - 'Tính từ + to...': 'tinh-tu-to.md'
+    - 'Mệnh đề -ing': 'menh-de-ing.md'
+  - 'Mạo từ và danh từ (Articles and nouns)':
+    - 'Đếm được, không đếm được': 'dem-duoc-khong-dem-duoc.md'
+    - 'a/an và the': 'mao-tu.md'
+    - 'Danh từ số ít và số nhiều.': 'so-it-so-nhieu.md'
+    - 'Danh từ ghép (Noun + noun)': 'danh-tu-danh-tu.md'
+    - 'Sở hữu cách (-s) và of ...': 'so-huu-cach.md'
+  - 'Đại từ và từ hạn định (Pronouns and determiners)':
+    - 'Đại từ phản thân (myself/yourself/themselves etc.)': 'dai-tu-phan-than.md'
+    - 'on my own / by myself': 'on-my-own-by-myself.md'
+    - 'all/all of, most/most of, no/none of': 'dai-luong-cac-thu.md'
+    - 'some và any': 'some-any.md'
+    - 'no/none/any nothing/nobody etc.': 'dai-tu-bat-dinh.md'
+    - 'much, many, little, few, a lot, plenty': 'dai-luong-cac-thu.md'
+    - 'both / both of neither / neither of either / either of': 'both-either-neither.md'
+    - 'all, every, whole': 'all-every-whole.md'
+    - 'each và every': 'each-every.md'
+  - 'Mệnh đề quan hệ (Relative clauses)':
+    - 'Mệnh đề quan hệ với who/that/which': 'mdqh-who-which-that.md'
+  - 'Tính từ và trạng từ (Adjectives and adverbs)':
+    - 'Tính từ kết thúc bằng -ing và -ed': 'tinh-tu-ing-ed.md'
+    - 'Vị trí của tính từ': 'vi-tri-tinh-tu.md'
+    - 'Tính từ và trạng từ (quick/quickly, well, fast, late, hard/hardly)': 'tinh-tu.md'
+    - 'so và such': 'so-such.md'
+    - 'enough và too': 'enough-too.md'
+    - 'quite, pretty, rather và fairly': 'quite-pretty-rather-fairly.md'
+    - 'So sánh hơn (Comparative) và so sánh nhất (Superlative)': 'so-sanh-hon.md'
+    - 'still, anymore, yet, already': 'still-anymore-yet-already.md'
+    - 'even': 'even.md'
+  - 'Liên từ và giới từ (Conjunctions and prepositions)':
+    - 'although, though, even though, in spite of, despite': 'although-though-eventhough-in-spite-of-despite.md'
+    - 'in case': 'in-case.md' 
+    - 'unless, as long as, provided': 'unless-as-long-as-provided.md'
+    - 'like và as': 'like-as.md'
+    - 'during và while': 'during-while.md'
+    - 'by và until': 'by-va-until.md'    
+    - 'Giới từ chỉ thời gian, vị trí, và các cách sử dụng khác.': 'gioi-tu-in-on-at.md'
+    - 'Cụm động từ (Phrasal verbs)': 'phrasal-verb-co-ban.md'
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlighting
+  name: material
+
+markdown_extensions:
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - open-in-new-tab
+
+extra:
+  generator: false
